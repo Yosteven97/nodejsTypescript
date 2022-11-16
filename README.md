@@ -27,6 +27,6 @@
 9. run npm start 
 
 #using typescript with packages, example with express.js
-10. npm install -D @types/node
-11. npm install -D @types/express
-12. open http://localhost:8000/ on your browser
+1. npm install -D @types/node
+2. npm install -D @types/express
+3. open http://localhost:8000/ on your browser
